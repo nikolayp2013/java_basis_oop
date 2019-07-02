@@ -1,7 +1,7 @@
 # java_basis_oop
 Основы ООП
 
-Текущий изученный урок:6  <br />
+Текущий изученный урок:7  <br />
 https://www.youtube.com/watch?v=ElzBSy9-NFA&list=PLwwk4BHih4fg8e6-dUMveq3LIDZouwoqz  <br />
 
 
@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=ElzBSy9-NFA&list=PLwwk4BHih4fg8e6-dUMveq3LIDZouw
 Урок 04 - Основы ООП. Основы ООП  <br />
 Урок 05 - Основы ООП. Главный принцип программирования  <br />
 Урок 06 - Основы ООП. Структура проекта  <br />
-Урок 07 - Основы ООП. Классы и пакеты  <br />
+Урок 07 - Основы ООП. Классы и объекты и пакеты  <br />
 Урок 08 - Основы ООП. Свойства объекта  <br />
 Урок 09 - Основы ООП. Методы объекта  <br />
 Урок 10 - Основы ООП. Ключевые слова Java  <br />
@@ -49,3 +49,8 @@ https://www.youtube.com/watch?v=ElzBSy9-NFA&list=PLwwk4BHih4fg8e6-dUMveq3LIDZouw
 Урок 33 - Основы ООП. Практика 3  <br />
 Урок 33 - Основы ООП. Практика 3. разбор д/з  <br />
 Roman Brovko
+
+К уроку 7. 
+Быстрое создание метода main. psvm + Tab
+Быстрое создание строки print soutv + Tab
+Простой вывод sout + Tab
