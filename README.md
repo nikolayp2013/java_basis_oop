@@ -54,3 +54,9 @@ Roman Brovko
 Быстрое создание метода main. psvm + Tab
 Быстрое создание строки print soutv + Tab
 Простой вывод sout + Tab
+
+К уроку 10.
+Ключевые слова
+https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
+Учебник по java
+https://docs.oracle.com/javase/tutorial/
