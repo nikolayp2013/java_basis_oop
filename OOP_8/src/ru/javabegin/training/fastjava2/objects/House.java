@@ -8,4 +8,12 @@ public class House {
     private String height;
     private String nameType;
 
+    public void open() {
+
+    }
+
+    public void close() {
+
+    }
+
 }
