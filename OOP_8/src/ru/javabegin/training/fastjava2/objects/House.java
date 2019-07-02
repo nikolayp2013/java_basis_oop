@@ -8,11 +8,11 @@ public class House {
     private String height;
     private String nameType;
 
-    public void open() {
+    private void open() {
 
     }
 
-    public void close() {
+    private void close() {
 
     }
 

@@ -5,11 +5,11 @@ public class Door {
     private String color = "Red";
     private int height = 180;
 
-    public void open() {
+    private void open() {
 
     }
 
-    public void close(boolean keyClose) {
+    private void close(boolean keyClose) {
 
     }
 
