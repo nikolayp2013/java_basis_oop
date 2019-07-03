@@ -5,6 +5,12 @@ public class Door {
     private String color;
     private String position;
     private String model;
+    private int height;
+
+    public void test() {
+        int count = 0;
+        height = 0;
+    }
 
 
     public String getColor() {
