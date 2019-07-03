@@ -60,3 +60,6 @@ Roman Brovko
 https://docs.oracle.com/javase/tutorial/java/nutsandbolts/_keywords.html
 Учебник по java
 https://docs.oracle.com/javase/tutorial/
+
+К уроку 15.
+Комбинация клавишь alt + ins чтобы создать конструкторы
