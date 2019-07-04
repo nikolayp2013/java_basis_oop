@@ -1,7 +1,7 @@
 # java_basis_oop
 Основы ООП
 
-Текущий изученный урок:17  <br />
+Текущий изученный урок:18  <br />
 https://www.youtube.com/watch?v=ElzBSy9-NFA&list=PLwwk4BHih4fg8e6-dUMveq3LIDZouwoqz  <br />
 
 
