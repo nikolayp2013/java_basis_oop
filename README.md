@@ -1,7 +1,7 @@
 # java_basis_oop
 Основы ООП
 
-Текущий изученный урок:24.2 мин  <br />
+Текущий изученный урок:24.2  <br />
 https://www.youtube.com/watch?v=ElzBSy9-NFA&list=PLwwk4BHih4fg8e6-dUMveq3LIDZouwoqz  <br />
 
 
@@ -63,6 +63,9 @@ https://docs.oracle.com/javase/tutorial/
 
 К уроку 15.
 Комбинация клавишь alt + ins чтобы создать конструкторы
+
+К уроку 24.2.
+Комбинация клавишь cntr + h просмотр иерархии объектов
 
 Стандартное имя пакета:
 ru.javabegin.training.fastjava2.objects

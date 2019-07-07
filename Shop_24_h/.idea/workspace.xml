@@ -1,40 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="05d7bf53-0123-422e-81bc-c6c4e678a6e2" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Shop_24_h.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/SalesRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/BaseBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/Sberbank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/VTB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/BaseVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/CommonVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/VipVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/BaseDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/ElectronicDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/GameDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/HomeDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/BaseGoods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/ElectronicDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/GameConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/HardDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Televisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Administrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Banker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/BaseEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Cashier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Consultant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Security.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Shop_16_h/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shop_16_h/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="05d7bf53-0123-422e-81bc-c6c4e678a6e2" name="Default" comment="" />
     <ignored path="Shop_24_h.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -86,10 +53,13 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
+        <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/SalesRoom.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+            <state relative-caret-position="136">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -372,8 +342,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1940" height="1100" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19202128" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19202128" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
@@ -395,7 +366,7 @@
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32988626" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Hierarchy" order="2" visible="true" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Designer" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
@@ -541,13 +512,6 @@
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/rt.jar!/com/sun/xml/internal/bind/v2/runtime/reflect/Lister.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/jre/lib/rt.jar!/sun/swing/BakedArrayList.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/javax/management/relation/RoleList.java" />
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/SalesRoom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Security.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -597,6 +561,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/BaseDepartment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -607,10 +578,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_211/src.zip!/java/util/ArrayList.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/SalesRoom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="106" column="13" selection-start-line="106" selection-start-column="13" selection-end-line="106" selection-end-column="13" />
+        <state relative-caret-position="136">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
