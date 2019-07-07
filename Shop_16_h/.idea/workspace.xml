@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df1ffb96-3a8f-4980-9a8d-547a4ada5902" name="Default Changelist" comment="" />
+    <list default="true" id="df1ffb96-3a8f-4980-9a8d-547a4ada5902" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -140,8 +142,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="17" />
-    <option name="y" value="117" />
+    <option name="x" value="183" />
+    <option name="y" value="123" />
     <option name="width" value="1612" />
     <option name="height" value="876" />
   </component>
@@ -162,6 +164,11 @@
             <path>
               <item name="Shop_16_h" type="b2602c69:ProjectViewProjectNode" />
               <item name="Shop_16_h" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop_16_h" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_16_h" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -169,6 +176,20 @@
               <item name="Shop_16_h" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop_16_h" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_16_h" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="bank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Shop_16_h" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_16_h" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="shop" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shop_16_h" type="b2602c69:ProjectViewProjectNode" />
@@ -193,6 +214,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -220,9 +242,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="17" y="117" width="1612" height="876" extended-state="0" />
+    <frame x="183" y="123" width="1612" height="876" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25322166" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25966495" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
