@@ -1,8 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d55487a4-08c7-4e84-9c2b-7c89dfe90660" name="Default" comment="" />
-    <ignored path="Shop_29.iws" />
+    <list default="true" id="deadd9eb-1ce8-4c6a-944f-03236db6e7bb" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Shop_31.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/SalesRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/Start/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/AbstractBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/Sberbank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/VTB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/AbstractVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/CommonVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/VipVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/AbstractDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/ElectronicDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/GameDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/HomeDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/AbstractGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/ElectronicDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/GameConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/HardDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Subwoofer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Televisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/BankInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/DepartmentInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/ElectronicDeviceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/EmployeeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/GoodsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/VisitorInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/AbstractEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Administrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Banker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Consultant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Security.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shop_30/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shop_30/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <ignored path="Shop_31.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,20 +50,24 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="isMigrated" value="true" />
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="Shop_29" />
+    <favorites_list name="Shop_31" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/AbstractVisitor.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/AbstractBank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+            <state relative-caret-position="221">
+              <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#400#401#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#540#541#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -37,10 +76,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/Start/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="17" column="43" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="43" />
+            <state relative-caret-position="476">
+              <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/AbstractGoods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/VTB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#193#194#0" expanded="true" />
+                <element signature="e#238#239#0" expanded="true" />
+                <element signature="e#271#272#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -54,25 +114,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/shop/interfaces/VisitorInterface.java" />
-        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/AbstractEmployee.java" />
-        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/VisitorInterface.java" />
-        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/VipVisitor.java" />
-        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Televisor.java" />
-        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/AbstractGoods.java" />
-        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/ElectronicDevice.java" />
-        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Computer.java" />
-        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Subwoofer.java" />
-        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/Start/Main.java" />
+        <option value="$PROJECT_DIR$/src/shop/bank/AbstractBank.java" />
+        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/credit/CreditInfo.java" />
+        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Banker.java" />
         <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/AbstractVisitor.java" />
+        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/BankInterface.java" />
+        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/AbstractBank.java" />
+        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/Sberbank.java" />
+        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/Start/Main.java" />
+        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/VTB.java" />
+        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/SalesRoom.java" />
+        <option value="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/AbstractGoods.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="1836" />
-    <option name="height" value="1218" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -80,70 +140,70 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_31" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_31" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_31" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_31" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="bank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_31" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_31" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="department" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_31" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="goods" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_31" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_31" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
-              <item name="staff" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_31" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Shop_31" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="Start" type="462c0819:PsiDirectoryNode" />
@@ -152,25 +212,26 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="LayoutCode.rearrangeEntriesJava" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="SearchEverywhereHistoryKey" value="inspect&#9;ACTION&#9;XDebugger.Inspect&#10;inspection&#9;ACTION&#9;RunInspection" />
+    <property name="OverrideImplement.combined" value="true" />
+    <property name="OverrideImplement.overriding.sorted" value="false" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shop_31" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Tim\IdeaProjects\Shop_29\src" />
+      <recent name="C:\Users\Tim\IdeaProjects\Shop_31\src" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -249,7 +310,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.javabegin.training.fastjava2.shop.Start.Main" />
-      <module name="Shop_30" />
+      <module name="Shop_31" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -311,27 +372,28 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d55487a4-08c7-4e84-9c2b-7c89dfe90660" name="Default" comment="" />
-      <created>1419503461156</created>
+      <changelist id="deadd9eb-1ce8-4c6a-944f-03236db6e7bb" name="Default" comment="" />
+      <created>1419532090583</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1419503461156</updated>
+      <updated>1419532090583</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-9" y="-9" width="1836" height="1100" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2803838" />
+      <window_info id="Image Layers" />
+      <window_info id="Capture Tool" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3902027" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info id="Image Layers" order="5" />
-      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2654388" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32988626" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -339,18 +401,18 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Changes" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.32990655" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32990655" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3299401" />
+      <window_info anchor="bottom" id="Messages" order="12" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Designer" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
-      <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Maven" order="7" />
-      <window_info anchor="right" id="Capture Analysis" order="8" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -366,148 +428,89 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/AbstractBank.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Banker.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/staff/AbstractStaff.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/AbstractVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/ElectronicDepartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/AbstractDepartment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/VipVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/GameConsole.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="8" column="26" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Computer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/ElectronicDevice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-          <folding>
-            <element signature="e#308#309#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#349#350#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/SalesRoom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        <state relative-caret-position="102">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="55" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/CommonVisitor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/AbstractGoods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="24" />
-          <folding>
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Subwoofer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/VisitorInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Televisor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="29" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#165#166#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/GoodsInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/Sberbank.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <element signature="e#159#160#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#250#251#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/AbstractVisitor.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/BankInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/AbstractBank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#400#401#0" expanded="true" />
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#540#541#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/Start/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="17" column="43" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="43" />
+        <state relative-caret-position="476">
+          <caret line="34" column="24" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/VTB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#238#239#0" expanded="true" />
+            <element signature="e#271#272#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/AbstractGoods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
         </state>
       </provider>
     </entry>
