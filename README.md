@@ -1,7 +1,7 @@
 # java_basis_oop
 Основы ООП
 
-Текущий изученный урок:29  <br />
+Текущий изученный урок:30  <br />
 https://www.youtube.com/watch?v=ElzBSy9-NFA&list=PLwwk4BHih4fg8e6-dUMveq3LIDZouwoqz  <br />
 
 
@@ -72,6 +72,10 @@ https://docs.oracle.com/javase/tutorial/
 
 К уроку 29. 
 Комбинация клавишь cntr + d дублирование строки
+
+К уроку 30. 
+Комбинация клавишь двойной shift (два раза нажать на левый shift)
+Комбинация клавишь shift + F10
 
 Стандартное имя пакета:
 ru.javabegin.training.fastjava2.objects

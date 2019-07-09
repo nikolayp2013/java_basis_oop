@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d55487a4-08c7-4e84-9c2b-7c89dfe90660" name="Default" comment="" />
+    <list default="true" id="d55487a4-08c7-4e84-9c2b-7c89dfe90660" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Shop_30.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/SalesRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/Start/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/AbstractBank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/Sberbank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/VTB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/AbstractVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/CommonVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/VipVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/AbstractDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/ElectronicDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/GameDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/HomeDepartment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/AbstractGoods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/ElectronicDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/GameConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/HardDrive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Plate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Subwoofer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Televisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/BankInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/DepartmentInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/ElectronicDeviceInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/EmployeeInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/GoodsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/VisitorInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/staff/AbstractStaff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/staff/Administrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/staff/Banker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/staff/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/staff/Consultant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/staff/Security.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Shop_29/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shop_29/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="Shop_29.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,33 +51,30 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="Shop_29" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/AbstractVisitor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#531#532#0" expanded="true" />
-                <element signature="e#582#583#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/Start/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+            <state relative-caret-position="289">
+              <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,71 +116,71 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_29" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_29" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_29" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_29" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="bank" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_29" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="client" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_29" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="department" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_29" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="goods" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_29" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="interfaces" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_29" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="staff" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Shop_29" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Shop_29" type="462c0819:PsiDirectoryNode" />
+              <item name="Shop_30" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="shop" type="462c0819:PsiDirectoryNode" />
               <item name="Start" type="462c0819:PsiDirectoryNode" />
@@ -168,7 +201,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SearchEverywhereHistoryKey" value="inspect&#9;ACTION&#9;XDebugger.Inspect&#10;inspection&#9;ACTION&#9;RunInspection" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shop_30" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="recentsLimit" value="5" />
   </component>
   <component name="RecentsManager">
@@ -252,7 +285,7 @@
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.javabegin.training.fastjava2.shop.Start.Main" />
-      <module name="Shop_29" />
+      <module name="Shop_30" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -325,16 +358,16 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2771855" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.5146262" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2654388" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -345,15 +378,15 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3299401" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Designer" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -373,15 +406,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/AbstractEmployee.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/staff/AbstractStaff.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -442,7 +473,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -500,22 +530,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/AbstractVisitor.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/Start/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="289">
+          <caret line="17" column="43" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#531#532#0" expanded="true" />
-            <element signature="e#582#583#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/Start/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/AbstractVisitor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="37" lean-forward="true" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        <state relative-caret-position="255">
+          <caret line="15" column="44" lean-forward="true" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
