@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ced4640-4c03-44e1-8fba-751f240c7481" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Shop_32.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/SalesRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/Start/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/AbstractBank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/Sberbank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/bank/VTB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/AbstractVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/CommonVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/client/VipVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/AbstractDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/ElectronicDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/GameDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/department/HomeDepartment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/AbstractGoods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/ElectronicDevice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/GameConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/HardDrive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Plate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Subwoofer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/goods/Televisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/BankInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/DepartmentInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/ElectronicDeviceInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/EmployeeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/GoodsInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/interfaces/VisitorInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/AbstractEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Administrator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Banker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Cashier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Consultant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/service/Security.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Shop_31/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Shop_31/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7ced4640-4c03-44e1-8fba-751f240c7481" name="Default" comment="" />
     <ignored path="Shop_32.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -77,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/Start/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
-              <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+              <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -110,7 +75,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,7 +105,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,8 +115,9 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="dynamic.classpath" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Shop_33" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -304,15 +270,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1824" height="1100" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3015873" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30498865" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Palette&#9;" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.18691589" />
@@ -326,15 +291,15 @@
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Theme Preview" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Designer" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -399,7 +364,7 @@
     <entry file="file://$PROJECT_DIR$/src/ru/javabegin/training/fastjava2/shop/Start/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
-          <caret line="34" column="37" lean-forward="true" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
+          <caret line="34" column="37" selection-start-line="34" selection-start-column="37" selection-end-line="34" selection-end-column="37" />
         </state>
       </provider>
     </entry>
